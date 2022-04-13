@@ -1,0 +1,12 @@
+
+
+
+
+# Serve para trabalha com as totas dentro do sistema
+Rotas: npm install react-router-dom
+
+# Fazer requisições http
+Axios: npm install axios
+
+#Biblioteca CSS
+npm install react-toastify
